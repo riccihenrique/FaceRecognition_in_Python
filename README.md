@@ -2,9 +2,9 @@
 Face Recognition using dlib and opencv in python
 
 # Dependences
-dlib -> pip install dlib
-opencv -> pip install opencv-python
-numpy -> pip install numpy
+dlib -> pip install dlib <br />
+opencv -> pip install opencv-python <br />
+numpy -> pip install numpy <br />
 
 # Training
 To train your own dataset:
